@@ -1,0 +1,1 @@
+My 30 day journey of learning Java.
