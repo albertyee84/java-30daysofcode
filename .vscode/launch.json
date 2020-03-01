@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayPractice",
+            "request": "launch",
+            "mainClass": "Day7.ArrayPractice",
+            "projectName": "java-30daysofcode_5f0bd9d2"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Local Node File",
+            "console": "integratedTerminal",
+            "program": "${file}"
+        },
+        {
+            "name": "Launch index.html",
+            "type": "chrome",
+            "request": "launch",
+            "file": "${workspaceFolder}/index.html"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "stopOnEntry": false,
+            "mainClass": "",
+            "args": ""
+        }
+    ]
+}
